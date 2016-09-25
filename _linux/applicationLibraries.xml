@@ -1,0 +1,29 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.5.2 (~/anaconda3/bin/python3.5) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/anaconda3/lib/python3.5" />
+        <root url="file://$USER_HOME$/anaconda3/lib/python3.5/plat-linux" />
+        <root url="file://$USER_HOME$/anaconda3/lib/python3.5/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/anaconda3/lib/python3.5/site-packages" />
+        <root url="jar://$USER_HOME$/anaconda3/lib/python3.5/site-packages/contextlib2-0.5.3-py3.5.egg!/" />
+        <root url="jar://$USER_HOME$/anaconda3/lib/python3.5/site-packages/cycler-0.10.0-py3.5.egg!/" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.2/system/python_stubs/-635004872" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/anaconda3/lib/python3.5" />
+        <root url="file://$USER_HOME$/anaconda3/lib/python3.5/plat-linux" />
+        <root url="file://$USER_HOME$/anaconda3/lib/python3.5/lib-dynload" />
+        <root url="file://$USER_HOME$/.local/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/anaconda3/lib/python3.5/site-packages" />
+        <root url="jar://$USER_HOME$/anaconda3/lib/python3.5/site-packages/contextlib2-0.5.3-py3.5.egg!/" />
+        <root url="jar://$USER_HOME$/anaconda3/lib/python3.5/site-packages/cycler-0.10.0-py3.5.egg!/" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2016.2/system/python_stubs/-635004872" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
