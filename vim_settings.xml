@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/Torch/lib/data_augmentation.lua" timestamp="1474817093221">
+        <mark key="[" line="88" column="10" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/Torch/test.lua" timestamp="1474815622190" />
+      <file name="$USER_HOME$/IdeaProjects/Torch/lib/preprocessing.lua" timestamp="1474816131779" />
+      <file name="$USER_HOME$/IdeaProjects/Torch/train.lua" timestamp="1474817333424" />
     </filemarks>
     <jumps />
     <registers />
@@ -20,6 +25,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
